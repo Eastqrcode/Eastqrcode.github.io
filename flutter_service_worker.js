@@ -9,7 +9,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ef45fe02614606e88a0bcb7dfc90ead1
 "assets/FontManifest.json": "5b8598e5a97e63aa43e4dbaffc18e316",
 "assets/fonts/Anta-Regular.ttf": "08dc1c5893bfab96b496642e402e21fa",
 "assets/fonts/Anton-Regular.ttf": "055c4df4e2f8c7a4d4675cdd8fa68da0",
-"assets/fonts/MaterialIcons-Regular.otf": "62dc7e01af93e13ecab2120ee5c23fb3",
+"assets/fonts/MaterialIcons-Regular.otf": "bd075ec5c858763662303299fc4140f8",
 "assets/fonts/Oswald.ttf": "ca399fd2286e6d1e50bd65bd950b33ef",
 "assets/fonts/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
 "assets/fonts/RobotoRegular.ttf": "8a36205bd9b83e03af0591a004bc97f4",
@@ -89,9 +89,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "ef45fe02614606e88a0bcb7dfc90ead1
 "icons/Icon-512.png": "f3f528c4bce10cfa9a2c0e55e090d391",
 "icons/Icon-maskable-192.png": "a0042314c1c3c1ffd793e83ddab8d86f",
 "icons/Icon-maskable-512.png": "66eae12c18404f0d433a6e83e68e0cad",
-"index.html": "b94b442903c05ead7b22799d6786d650",
-"/": "b94b442903c05ead7b22799d6786d650",
-"main.dart.js": "c7fbaeed4fa79c3a6f2b0e03f24d1b34",
+"index.html": "cb8f28bde09cb6a6d3b93b27e515cdca",
+"/": "cb8f28bde09cb6a6d3b93b27e515cdca",
+"main.dart.js": "10eb3cec693faab108bc35ea6e52b3b0",
 "manifest.json": "21767b7ad793011e013df84d6cd726de",
 "version.json": "7a676a5f3340ac699a5f81b1476a819a"};
 // The application shell files that are downloaded before a service worker can
